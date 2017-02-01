@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">MojoMenu</string>
     <string name="title_activity_resteraunt_map">Map</string>
+    <string name="card_title_1">card_title_1</string>
+    <string name="card_description_1">description_1</string>
 </resources>
