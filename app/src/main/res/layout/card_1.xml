@@ -7,27 +7,28 @@
     android:layout_margin="5dp"
     card_view:cardCornerRadius="4dp">
 
-    <RelativeLayout
+    <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <TextView
-            android:id="@+id/card_1_screen_name"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_alignParentTop="true"
-            android:layout_margin="10dp"
-            android:text="card_1"
-            android:textSize="20sp" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
 
-        <TextView
-            android:id="@+id/card_1_screen_desc"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_alignParentTop="true"
-            android:layout_margin="10dp"
-            android:text="card_1"
-            android:textSize="20sp" />
 
-    </RelativeLayout>
+
+
+    </ScrollView>
 </android.support.v7.widget.CardView>
