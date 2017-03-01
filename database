@@ -1,0 +1,12 @@
+//Hotfood
+INSERT INTO hotfood (id, FoodName, Price) VALUES (1, 'Breakfast Baguttes', 3.75);
+INSERT INTO hotfood (id, FoodName, Price) VALUES (2, 'Bacon Baguttes', 3.25);
+INSERT INTO hotfood (id, FoodName, Price) VALUES (3, 'Egg and Bacon Bap', 1.99);
+INSERT INTO hotfood (id, FoodName, Price) VALUES (4, 'Cheese and Onion Toastie', 2.75);
+INSERT INTO hotfood (id, FoodName, Price) VALUES (5, 'Portion of Chips', 1.50);
+// Sprits
+INSERT INTO sprits (id, SpritsName, Price) VALUES (1, '1 pint Fosters', 3.50);
+INSERT INTO sprits (id, SpritsName, Price) VALUES (1, '1 pint Budwiser', 3.50);
+INSERT INTO sprits (id, SpritsName, Price) VALUES (1, '1 pint Carlesberg', 3.50);
+INSERT INTO sprits (id, SpritsName, Price) VALUES (1, '1 Shot Smirnoff', 2.80);
+INSERT INTO sprits (id, SpritsName, Price) VALUES (1, '1 Shot Tequila', 3.80);
