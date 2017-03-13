@@ -19,8 +19,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent myIntent= new Intent(Intent.ACTION_SEND);
                 myIntent.setType("text/plain");
-                String shareBody = "Your body here:";
-                String shareSub = "Your Subject here:";
+                String shareBody = "Check out this menu from Mojo Menus!:";
                 myIntent.putExtra(Intent.EXTRA_SUBJECT,shareBody);
                 myIntent.putExtra(Intent.EXTRA_TEXT,shareBody);
                 startActivity(Intent.createChooser(myIntent,"Share using"));
