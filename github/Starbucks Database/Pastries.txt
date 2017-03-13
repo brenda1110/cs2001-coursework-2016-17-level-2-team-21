@@ -1,0 +1,17 @@
+
+CREATE TABLE Pastries (id INTEGER, name TEXT, price TEXT)
+
+INSERT INTO Pastries (id, name, price)
+VALUES (1, 'Chocolate Cherry Muffin', '£1.59') 
+
+INSERT INTO Pastries (id, name, price)
+VALUES (2, 'Pain au Chocolat', '£1.25') 
+
+INSERT INTO Pastries (id, name, price)
+VALUES (3, 'Chocolate Swirl', '£1.99')
+
+INSERT INTO Pastries (id, name, price)
+VALUES (4, 'Cinnamon Swirl', '£1.99')
+
+INSERT INTO Pastries (id, name, price)
+VALUES (5, 'Almond Croissant', '£1.19') 

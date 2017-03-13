@@ -1,0 +1,40 @@
+
+CREATE TABLE Colddrinks (id INTEGER, name TEXT, price TEXT)
+
+INSERT INTO Colddrinks (id, name, price)
+VALUES (1, 'Caramel Frappuccino', '£3.40') 
+
+INSERT INTO Colddrinks (id, name, price)
+VALUES (2, 'Green Tea Frappuccino', '£3.15')
+
+INSERT INTO Colddrinks (id, name, price)
+VALUES (3, 'Mango Passion Fruit Blended Juice Drink', '£3.15')
+
+INSERT INTO Colddrinks (id, name, price)
+VALUES (4, 'Raspberry Black Currant Blended Juice Drink', '£3.15') 
+
+INSERT INTO Colddrinks (id, name, price)
+VALUES (5, 'Vanilla Creme Frappuccino', '£3.40') 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  
+
+
+
+
+ 

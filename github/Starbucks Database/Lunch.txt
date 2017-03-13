@@ -1,0 +1,19 @@
+
+CREATE TABLE Lunch (id INTEGER, name TEXT, price TEXT)
+
+INSERT INTO Lunch (id, name, price)
+VALUES (1, 'Moreish Meze Panini', '£3.99') 
+
+INSERT INTO Lunch (id, name, price)
+VALUES (2, 'Sure as Eggs is Eggs Sandwich', '£2.49)
+
+INSERT INTO Lunch (id, name, price)
+VALUES (3, 'Triple Cheese Toastie', '£2.99')
+
+INSERT INTO Lunch (id, name, price)
+VALUES (4, 'Ham and Cheddar Cheese Toastie', '£2.99') 
+
+INSERT INTO Lunch (id, name, price)
+VALUES (5, 'Croque Monsieur Panini', '£3.99') 
+
+
