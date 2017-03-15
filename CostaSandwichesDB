@@ -1,0 +1,13 @@
+CREATE TABLE Sandwiches (id INTEGER, name TEXT, price TEXT)
+
+INSERT INTO Sandwiches (id, name, price)
+VALUES (1, 'BLT', '£2.10') 
+
+INSERT INTO Sandwiches (id, name, price)
+VALUES (2, 'Chicken Sandwich', '£2.10')
+
+INSERT INTO Sandwiches (id, name, price)
+VALUES (3, 'Chicken Wrap', '£2.10')
+
+INSERT INTO Sandwiches (id, name, price)
+VALUES (4, 'Falafel Wrap', '£2.10') 
