@@ -1,0 +1,13 @@
+CREATE TABLE Hotdrinks (id INTEGER, name TEXT, price TEXT)
+
+INSERT INTO Hotdrinks (id, name, price)
+VALUES (1, 'Latte', '£2.10') 
+
+INSERT INTO Hotdrinks (id, name, price)
+VALUES (2, 'Cappucino', '£2.10')
+
+INSERT INTO Hotdrinks (id, name, price)
+VALUES (3, 'Mocha', '£2.10')
+
+INSERT INTO Hotdrinks (id, name, price)
+VALUES (4, 'Hot Chocolate', '£2.10') 
