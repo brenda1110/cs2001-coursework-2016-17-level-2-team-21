@@ -1,0 +1,21 @@
+CREATE TABLE restaurants (id INTEGER, restaurantsname TEXT)
+
+INSERT INTO restaurants (id, restaurantsname)
+VALUES (1, 'Costa')
+
+INSERT INTO restaurants (id, restaurantsname)
+VALUES (2, 'Locos')
+
+INSERT INTO restaurants (id, restaurantsname)
+VALUES (3, 'Starbucks')
+
+INSERT INTO restaurants (id, restaurantsname)
+VALUES (4, 'Subway')
+
+INSERT INTO restaurants (id, restaurantsname)
+VALUES (5, 'Red Iron')
+
+INSERT INTO restaurants (id, restaurantsname)
+VALUES (6, 'Yardbird')
+
+SELECT * FROM restaurants;
