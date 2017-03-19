@@ -1,0 +1,13 @@
+CREATE TABLE costa (id INTEGER, name TEXT)
+
+INSERT INTO costa (id, name)
+VALUES (1, 'Hot Drinks') 
+
+INSERT INTO costa (id, name)
+VALUES (2, 'Cold Drinks')
+
+INSERT INTO costa (id, name)
+VALUES (3, 'Sandwiches')
+
+INSERT INTO costa (id, name)
+VALUES (4, 'Snacks') 
